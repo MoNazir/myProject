@@ -21,6 +21,8 @@ public class Main {
 		String x = "hello, world!";
 		
 		System.out.println(x.hashCode());
+		System.out.println("hello");
+		System.out.println("my name is bubsy");
 		
 	}
 
