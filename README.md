@@ -1,2 +1,3 @@
 # myProject
-A place to place my projects.
+ 
+ I will be a Java developer!
